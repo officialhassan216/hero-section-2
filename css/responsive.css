@@ -1,0 +1,87 @@
+/* Targeting various screen sizes based on max-width */
+@media (max-width: 1920px) {
+    /* CSS rules for screens up to 1920px wide */
+  }
+  
+  @media (max-width: 1600px) {
+    /* CSS rules for screens up to 1600px wide */
+  }
+  
+  @media (max-width: 1536px) {
+    /* CSS rules for screens up to 1536px wide */
+  }
+  
+  @media (max-width: 1440px) {
+    /* CSS rules for screens up to 1440px wide */
+  }
+  
+  @media (max-width: 1400px) {
+    /* CSS rules for screens up to 1400px wide */
+  }
+  
+  @media (max-width: 1366px) {
+    /* CSS rules for screens up to 1366px wide */
+  }
+  
+  @media (max-width: 1280px) {
+    /* CSS rules for screens up to 1280px wide */
+  }
+  
+  @media (max-width: 1024px) {
+    /* CSS rules for screens up to 1024px wide */
+  }
+  
+  @media (max-width: 991px) {
+    /* CSS rules for screens up to 991px wide */
+  }
+  
+  @media (max-width: 800px) {
+    /* CSS rules for screens up to 800px wide */
+  }
+  
+  @media (max-width: 767px) {
+    /* CSS rules for screens up to 767px wide */
+  }
+  
+  @media (max-width: 600px) {
+    /* CSS rules for screens up to 600px wide */
+  }
+  
+  @media (max-width: 540px) {
+    /* CSS rules for screens up to 540px wide */
+  }
+  
+  @media (max-width: 480px) {
+    /* CSS rules for screens up to 480px wide */
+  }
+  
+  @media (max-width: 425px) {
+    /* CSS rules for screens up to 425px wide */
+  }
+  
+  @media (max-width: 375px) {
+    /* CSS rules for screens up to 375px wide */
+  }
+  
+  @media (max-width: 320px) {
+    /* CSS rules for screens up to 320px wide */
+    h1 {
+      font-size: 26px;
+  }
+  p {
+    font-size: 0.8rem;
+    line-height: 1.6;
+    margin-top: 1rem;
+    color: #ffffff;
+    font-weight: 200;
+}
+.main-btn {
+  margin-bottom: 1.5rem;
+  padding: 0.7rem 1.5rem;
+  margin-top: 1.5rem;
+}
+.blank-btn {
+  margin-bottom: 1.5rem;
+}
+  }
+  
